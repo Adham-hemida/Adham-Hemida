@@ -6,7 +6,7 @@
 
 ---
 
-## 👋 Hi , I'm **Adham**
+## 👋 Hi , I'm **Adham Hemida**
 
 * 🔭 Aspiring **.NET Backend Developer** passionate about building clean and secure RESTful APIs.
 * 🌱 Currently diving into **ASP.NET Core**, **Entity Framework Core**, **CQRS** , **Clean Architecture**,  and **Unit of Work** patterns.
