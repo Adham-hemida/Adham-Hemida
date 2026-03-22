@@ -8,7 +8,7 @@
 
 ## 👋 Hi , I'm **Adham Hemida**
 
-* 🔭 Aspiring **.NET Backend Developer** passionate about building clean and secure RESTful APIs and MVC.
+* 🔭 Aspiring **.NET Backend Developer** passionate about building clean and secure **RESTful APIs** and **MVC**.
 * 🌱 Currently diving into **ASP.NET Core**, **Entity Framework Core**, **CQRS** , **Clean Architecture**,  and **Unit of Work** patterns.
 * 💡 Exploring background jobs with **Hangfire**, authentication with **JWT**, and API **Rate Limiting**.
 * 🎯 Goal: craft resilient, testable, and maintainable backend services.
